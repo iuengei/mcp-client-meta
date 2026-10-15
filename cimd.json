@@ -1,9 +1,16 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/iuengei/mcp-client-meta@main/cimd.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/iuengei/mcp-client-meta@master/cimd.json",
   "client_name": "Alma Desktop MCP",
-  "redirect_uris": ["http://127.0.0.1:38765/callback"],
-  "grant_types": ["authorization_code", "refresh_token"],
-  "response_types": ["code"],
+  "redirect_uris": [
+    "http://127.0.0.1:38765/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
   "token_endpoint_auth_method": "none",
   "scope": "mcp:read mcp:write offline_access"
 }
