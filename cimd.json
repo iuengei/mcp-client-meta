@@ -2,6 +2,7 @@
   "client_id": "https://iuengei.github.io/mcp-client-meta/cimd.json",
   "client_name": "Alma Desktop MCP",
   "redirect_uris": [
+    "http://127.0.0.1:23001/mcp/oauth/callback",
     "http://127.0.0.1:38765/callback"
   ],
   "grant_types": [
