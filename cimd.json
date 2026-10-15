@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githack.com/iuengei/mcp-client-meta/master/cimd.json",
+  "client_id": "https://iuengei.github.io/mcp-client-meta/cimd.json",
   "client_name": "Alma Desktop MCP",
   "redirect_uris": [
     "http://127.0.0.1:38765/callback"
